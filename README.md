@@ -17,7 +17,7 @@ Now this task is on-going. I will update my progress here.
         2. PART II: contains 10,666 human labled (short text, summary) pairs which can be used to train classifier to filter the noises of the PART I.
         3. PART III: contains 1,106 (short text, summary) pairs, this part is labled by 3 persons with the same labels. These pairs with score 3,4 and 5 can be used as test set for evaluating summary generation systems. 
 
-      Let process the data getting clean data files for trainning. It is very easy just extracting id/summary/short_text/(human_label) in each file and saving to three csv files.
+     Let process the data getting clean data files for trainning. It is very easy just extracting id/summary/short_text/(human_label) in each file and saving to three csv files.
       
 - Step-4: Model Create. (WIP)
         There are 2 models will be created.
